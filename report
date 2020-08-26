@@ -1,0 +1,9 @@
+Clearly define a problem or an idea of your choice. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
+
+Introduction
+
+For drivers and governments all around the world, saftey on the road is a major concern. Drivers wish to keep themselves safe, while governments do their best to mitigate the hazardous conditions that cause severe accidents. Using data analysis and machine learning algorithms, data will be explored to determine the conditions that most affect whether an acccident was severe, as well as to make predictions on the severity of an accident given the conditions. 
+
+Data
+
+The data from which we will derive these conclusions is a comprehensive collection of the conditions under which these accidents happen, the severity, and all other potential variables in question.
