@@ -7,3 +7,11 @@ For drivers and governments all around the world, saftey on the road is a major 
 Data
 
 The data from which we will derive these conclusions is a comprehensive collection of the conditions under which these accidents happen, the severity, and all other potential variables in question.
+
+Methodology
+
+First, I began with importing the data into the Jupyter Notebook. Next, I removed the columns that I suspected would have little to no impact on the overall accuracy of the learning algorithms. Next, all NaN values were removed along with standardizing the data to optimize the machine learning algorithms. Finally, both logistic regression and an SVM were used, with both scoring near perfect accuracy ratings on both the Jaccard and F1 tests.
+
+Conclusion
+
+With the data used to fit the models, we can reasonably within a 1% confidence predict the severity level of the car accidents.
